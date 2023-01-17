@@ -13,3 +13,5 @@ Acest cod este un vizualizator hexazecimal simplu. Acesta ia ca argumente de la 
 5.Folosind un ciclu, citește din fișier în buffer și pentru fiecare octet din buffer, scrie valoarea hexazecimală în consolă.
 
 6.Dacă apare o excepție de tip IOException, afișează un mesaj de eroare.
+
+Aceasta este o modalitate simplă de a citi și afișa conținutul unui fișier în format hexazecimal pe consolă.
